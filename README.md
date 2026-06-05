@@ -39,7 +39,7 @@ This is a free chemistry experiment simulator I built on my own. I made it becau
 
 ## 實驗原理
 
-燒杯中裝有**鹽酸（HCl）**溶液，透過滴定管逐滴加入**氫氧化鈉（NaOH）**進行中和。兩者皆為強酸／強鹼，反應式為：
+燒杯中裝有鹽酸（HCl）溶液，透過滴定管逐滴加入氫氧化鈉（NaOH）進行中和。兩者皆為強酸／強鹼，反應式為：
 
 ```
 HCl + NaOH → NaCl + H₂O
