@@ -65,5 +65,3 @@ By adjusting the added volume yourself and watching the curve go "flat → steep
 - **Institution:** Department of Chemistry, Chinese Culture University
 - **Completed:** 2026/6/5
 - **License:** Released under the MIT License — free to use and modify, with attribution retained.
-
-> It's a good idea to add a dedicated `LICENSE` file to the repo: on the repo home page, click `Add file` → `Create new file`, type `LICENSE` as the filename, and GitHub will offer a license template picker in the top-right — pick **MIT**. That gives you a proper legal license file, not just a line in the README.
