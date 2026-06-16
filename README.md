@@ -12,6 +12,13 @@
 
 > 首次載入需要數秒，請等進度條跑完，看到短暫空白是正常現象。
 
+<img width="1193" height="747" alt="image" src="https://github.com/user-attachments/assets/02fc4aa5-df32-40a5-af22-8a14c8cb02c2" />
+
+<img width="1200" height="752" alt="image" src="https://github.com/user-attachments/assets/4b04a57d-918f-463c-908d-bc44c1837588" />
+
+<img width="1201" height="752" alt="image" src="https://github.com/user-attachments/assets/a922a9ac-a447-4aeb-8d26-3737ddf4dcb5" />
+
+
 ## 簡介
 
 This is a free chemistry experiment simulator I built on my own. I made it because chemistry felt too abstract to me, and I wanted something that lowers the learning curve. Since I don't know any programming languages, I created this simple simulator with the help of Claude AI for now. Feedback from users is very welcome!
@@ -60,6 +67,8 @@ HCl + NaOH → NaCl + H₂O
 
 ## 作者與授權
 
-- **作者**：陳文昌 B0214634 中國文化大學-化學系
-- **完成日期**：2026/6/5
-- **授權**：本專案採用 MIT 授權，歡迎自由使用與修改，使用時請保留出處標示。
+- **作者**：陳文昌
+- **系所**：中國文化大學 化學系
+- **學號**：B0214634
+- **指導教授**：鄭豐裕教授
+- **完成日期**：2026/06
